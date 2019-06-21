@@ -5,6 +5,9 @@
  */
 package myalgorithms;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author George.Pasparakis
@@ -16,6 +19,7 @@ public class MyAlgorithms {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        List<String> strings = new ArrayList<>();
     }
     
 }
