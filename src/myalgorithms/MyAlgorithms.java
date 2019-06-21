@@ -20,6 +20,7 @@ public class MyAlgorithms {
     public static void main(String[] args) {
         // TODO code application logic here
         List<String> strings = new ArrayList<>();
+        List<String> strings2 = new ArrayList<>();
     }
     
 }
